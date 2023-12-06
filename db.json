@@ -1,0 +1,69 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "nome": "EYmaeu",
+      "sobrenome": "GATO",
+      "email": "TESTE11@examplo.com",
+      "dob": "2023-12-21T03:00:00.000Z",
+      "genero": "outro",
+      "educacao": "Diamante",
+      "empresa": "Jr kkkkkk",
+      "experiencia": 777,
+      "package": 42,
+      "id": 3
+    },
+    {
+      "nome": "Renan",
+      "sobrenome": "massoo",
+      "email": "Cansando@gmail.com",
+      "dob": "2017-03-15T03:00:00.000Z",
+      "genero": "mulher",
+      "educacao": "Mestre",
+      "empresa": "small corp",
+      "experiencia": 4,
+      "package": 1,
+      "id": 4
+    },
+    {
+      "nome": "Gato w ",
+      "sobrenome": "falto",
+      "email": "falto@gmail.com",
+      "dob": "2020-01-13T03:00:00.000Z",
+      "genero": "mulher",
+      "educacao": "Mestre",
+      "empresa": "Fake cops ",
+      "experiencia": 1000,
+      "package": 1,
+      "id": 5
+    },
+    {
+      "nome": "lkjhgfd",
+      "sobrenome": "tyuio",
+      "email": "kjhgfds@asdf.com",
+      "dob": "2023-12-04T03:00:00.000Z",
+      "genero": "mulher",
+      "educacao": "Diamante",
+      "empresa": "sss",
+      "experiencia": 3,
+      "package": 2,
+      "id": 6
+    }
+  ]
+}
